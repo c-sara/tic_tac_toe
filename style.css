@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: plum;
+}
+
+section {
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3,200px);
+    grid-template-rows: repeat(3,200px);
+    margin: auto;
+    justify-content: center;
+}
+
+.grid {
+    border: 5px solid black;
+    cursor: pointer;
+    font-size: 100px;
+    display: grid;
+    justify-content: center;
+}
+
