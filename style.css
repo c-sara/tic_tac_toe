@@ -24,5 +24,6 @@ section {
     font-size: 100px;
     display: grid;
     justify-content: center;
+    background-color: white;
 }
 
