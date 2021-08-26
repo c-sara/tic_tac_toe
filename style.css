@@ -10,6 +10,20 @@ section {
     text-align: center;
 }
 
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.row-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    gap: 20px;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(3,200px);
@@ -25,5 +39,6 @@ section {
     display: grid;
     justify-content: center;
     background-color: white;
+    text-indent: -9999px
 }
 
