@@ -3,10 +3,6 @@
     font-family: 'Press Start 2P', cursive;
 }
 
-losing-message {
-    border: 3px solid red;
-}
-
 body {
     background-color: plum;
 }
@@ -20,13 +16,31 @@ img {
     height: 200px;
     object-fit: cover;
     border-radius: 50%;
-    margin: 20px
+    margin: 20px;
 }
 
-/* .dog-pic {
-    animation: heartBeat;
-    animation-duration: 3s;
-} */
+.hide {
+    opacity: 0%;
+}
+
+.dog-treat {
+    background-size: contain;
+    border-radius: 0%;
+    width: 80px;
+    height: 80px;
+}
+
+.cat-treat {
+    background-size: contain;
+    border-radius: 0%;
+    width: 100px;
+    height: 100px;
+}
+
+.treat-animation {
+    animation: fadeOutUp;
+    animation-duration: 2s;
+}
 
 .starting-player {
     animation: heartBeat;
@@ -34,7 +48,10 @@ img {
     animation-delay: 0.5s;
 }
 
-
+.winning-player {
+    animation: heartBeat;
+    animation-duration: 2s;
+}
 
 .row-container {
     display: grid;
@@ -73,7 +90,6 @@ h3 {
     background-color: white;
     text-indent: -9999px;
     background-size: cover;
-    /* transition: 2s; */
 }
 
 .next-round-btn .reset-btn {
