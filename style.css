@@ -1,5 +1,10 @@
 * {
     box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+}
+
+losing-message {
+    border: 3px solid red;
 }
 
 body {
@@ -15,7 +20,21 @@ img {
     height: 200px;
     object-fit: cover;
     border-radius: 50%;
+    margin: 20px
 }
+
+/* .dog-pic {
+    animation: heartBeat;
+    animation-duration: 3s;
+} */
+
+.starting-player {
+    animation: heartBeat;
+    animation-duration: 1s;
+    animation-delay: 0.5s;
+}
+
+
 
 .row-container {
     display: grid;
@@ -24,10 +43,23 @@ img {
     gap: 20px;
 }
 
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+h3 {
+    background-color: white;
+    border: 3px solid black;
+    padding: 20px;
+    cursor: pointer;
+}
+
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(3,200px);
-    grid-template-rows: repeat(3,200px);
+    grid-template-columns: repeat(3,150px);
+    grid-template-rows: repeat(3,150px);
     margin: auto;
     justify-content: center;
 }
@@ -39,6 +71,14 @@ img {
     display: grid;
     justify-content: center;
     background-color: white;
-    text-indent: -9999px
+    text-indent: -9999px;
+    background-size: cover;
+    /* transition: 2s; */
+}
+
+.next-round-btn .reset-btn {
+    cursor: pointer;
+    width: 40px;
+    height: 20px;
 }
 

@@ -19,3 +19,4 @@ Go to the URL to play: https://c-sara.github.io/tic_tac_toe/
 
 ## Unsolved Problems
 Getting the code to work without hardcoding the X's and O's in my winning conditionals.
+Making a character selection within the time contraints given.
