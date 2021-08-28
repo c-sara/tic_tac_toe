@@ -46,9 +46,9 @@ Futher below are unsolved problems due to time constraints:
 * Reset button: https://elements.envato.com/quick-rewind-BZRWT4X?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_sfx_tag&_ga=2.65119534.1021899742.1630021250-1719433234.1630021250 
 * Next round button: https://elements.envato.com/button-GSTC9N3?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_sfx_search_no_results&_ga=2.262308236.1021899742.1630021250-1719433234.1630021250
 * Kazoo: https://elements.envato.com/kazoo-ta-da-P89EDMJ
-* Gorgeous by Taylor Swift (https://www.youtube.com/watch?v=EUoe7cf0HYw&ab_channel=TaylorSwiftVEVO)
-* Unlock It (feat. Kim Petras and Jay Park) by Charli XCX (https://www.youtube.com/watch?v=KP0r5LSbWL4&ab_channel=CharliXCX)
-* Vroom Vroom by Charli XCX (https://www.youtube.com/watch?v=qfAqtFuGjWM&ab_channel=VroomVroomRecordings)
+* Gorgeous by Taylor Swift: https://www.youtube.com/watch?v=EUoe7cf0HYw&ab_channel=TaylorSwiftVEVO
+* Unlock It (feat. Kim Petras and Jay Park) by Charli XCX: https://www.youtube.com/watch?v=KP0r5LSbWL4&ab_channel=CharliXCX
+* Vroom Vroom by Charli XCX: https://www.youtube.com/watch?v=qfAqtFuGjWM&ab_channel=VroomVroomRecordings
 * 1UP Mario sound effect: https://www.youtube.com/watch?v=5yrFdhNG2Sk&ab_channel=UltimateVideos278 
 * Nyan cat: https://www.youtube.com/watch?v=QH2-TGUlwu4&ab_channel=NyanCat 
 * Windows start up and Universal song: https://www.youtube.com/watch?v=z9OGF0rYlss&ab_channel=Artisax 
