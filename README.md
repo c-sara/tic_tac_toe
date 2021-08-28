@@ -3,7 +3,7 @@
 ## Tic Tac Toe
 ### How to play
 Go to the URL to play: https://c-sara.github.io/tic_tac_toe/ 
-![tic-tac-toe-screenshot](/tic-tac-toe "Tic Tac Toe")
+![tic-tac-toe-screenshot](/tic-tac-toe.png "Tic Tac Toe")
 
 ## Technologies Used
 HTML, CSS and Javascript were used to piece together this game of Tic Tac Toe.
