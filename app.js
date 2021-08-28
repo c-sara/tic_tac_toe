@@ -31,21 +31,21 @@ const grid7 = document.querySelector('#grid-7')
 const grid8 = document.querySelector('#grid-8')
 const grid9 = document.querySelector('#grid-9')
 
-const dogPhoto = "url(puppy.jpg)"
-const catPhoto = "url(kitty.jpg)"
+const dogPhoto = "url(Resources/puppy.jpg)"
+const catPhoto = "url(Resources/kitty.jpg)"
 
-var audioClick = new Audio('click.mp3')
-var nextRoundSound = new Audio('next-round.mp3')
-var resetSound = new Audio('reset.mp3')
+var audioClick = new Audio('Resources/click.mp3')
+var nextRoundSound = new Audio('Resources/next-round.mp3')
+var resetSound = new Audio('Resources/reset.mp3')
 
-const audioWin = new Audio('win.mp3')
-const win1Up = new Audio('win-1up.mp3')
-const winBeautiful = new Audio('win-beautiful.mp3')
-const winGorgeous = new Audio('win-gorgeous.mp3')
-const winNyan = new Audio('win-nyan.mp3')
-const winStartup = new Audio('win-startup.mp3')
-const winUniversal = new Audio('win-universal.mp3')
-const winVroom = new Audio('win-vroom.mp3')
+const audioWin = new Audio('Resources/win.mp3')
+const win1Up = new Audio('Resources/win-1up.mp3')
+const winBeautiful = new Audio('Resources/win-beautiful.mp3')
+const winGorgeous = new Audio('Resources/win-gorgeous.mp3')
+const winNyan = new Audio('Resources/win-nyan.mp3')
+const winStartup = new Audio('Resources/win-startup.mp3')
+const winUniversal = new Audio('Resources/win-universal.mp3')
+const winVroom = new Audio('Resources/win-vroom.mp3')
 
 var winningMusicArr = [
     audioWin,
