@@ -3,7 +3,7 @@
 ## Tic Tac Toe
 ### How to play
 Go to the URL to play: https://c-sara.github.io/tic_tac_toe/ 
-![tic-tac-toe-screenshot](/tic-tac-toe.png "Tic Tac Toe")
+![tic-tac-toe-screenshot](Resources/tic-tac-toe.png "Tic Tac Toe")
 
 ## Technologies Used
 HTML, CSS and Javascript were used to piece together this game of Tic Tac Toe.
@@ -32,17 +32,18 @@ Futher below are unsolved problems due to time constraints:
 * Formatting the game to fit on browser/phone 
 
 ## Sources
-### Images Used
+### Websites
+* Image editting: https://pixlr.com/x/ (Used for the dog bone and fish bone)
+* Cutting sound clips: https://audiotrimmer.com/ 
+* Animations (heartBeat and fadeOutUp): https://animate.style/
+
+### Images 
 * Dog photo: https://www.wired.co.uk/article/dog-dna-tests
 * Cat photo: https://9gag.com/gag/a85gK3O
 * Dog bone: https://www.pinterest.com.au/pin/837528861942129209/ 
 * Fish bone: https://www.subpng.com/png-ppw3xv/
 
-### Websites Used
-* Image editting: https://pixlr.com/x/ (Used for the dog bone and fish bone)
-* Cutting sound clips: https://audiotrimmer.com/ 
-
-### Music/sounds Used
+### Music/sounds
 * Reset button: https://elements.envato.com/quick-rewind-BZRWT4X?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_sfx_tag&_ga=2.65119534.1021899742.1630021250-1719433234.1630021250 
 * Next round button: https://elements.envato.com/button-GSTC9N3?utm_source=mixkit&utm_medium=referral&utm_campaign=elements_mixkit_cs_sfx_search_no_results&_ga=2.262308236.1021899742.1630021250-1719433234.1630021250
 * Kazoo: https://elements.envato.com/kazoo-ta-da-P89EDMJ
